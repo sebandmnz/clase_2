@@ -1,3 +1,2 @@
 esta es la primera linea
-segunda linea creada desde github
-tercera linea creada en github
+cuarta linea escrita de manera local
